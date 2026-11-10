@@ -1,0 +1,11 @@
+{
+  "name": "x402-conformance",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Does an x402 buyer sign what its spend policy checked? A local, offline conformance harness.",
+  "license": "MIT",
+  "scripts": {
+    "test": "./run-all.sh"
+  }
+}

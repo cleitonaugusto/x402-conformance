@@ -1,0 +1,10 @@
+{
+  "name": "x402-conformance-adapter-vapi",
+  "private": true,
+  "type": "module",
+  "description": "Conformance adapter for @vapi-network/core",
+  "dependencies": {
+    "@vapi-network/core": "0.12.0",
+    "viem": "^2"
+  }
+}

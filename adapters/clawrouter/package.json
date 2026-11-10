@@ -1,0 +1,9 @@
+{
+  "name": "x402-conformance-adapter-clawrouter",
+  "private": true,
+  "type": "module",
+  "description": "Conformance adapter for @blockrun/clawrouter",
+  "dependencies": {
+    "@blockrun/clawrouter": "0.12.312"
+  }
+}
